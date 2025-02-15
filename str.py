@@ -1,3 +1,3 @@
 c="harsh"
-
-print(c)
+d=998
+print(c,d)
